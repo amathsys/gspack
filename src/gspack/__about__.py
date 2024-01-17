@@ -32,4 +32,4 @@ __author__ = "Aleksei Sholokhov"
 __email__ = "aksh@uw.edu"
 
 __license__ = "GNU GPLv3"
-__copyright__ = f"Copyright 2020-2021 {__author__}"
+__copyright__ = f"Copyright 2020-2024 {__author__}"
