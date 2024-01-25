@@ -28,8 +28,8 @@ __uri__ = "https://github.com/aksholokhov/gspack"
 
 __version__ = "0.2.12"
 
-__author__ = "Aleksei Sholokhov"
-__email__ = "aksh@uw.edu"
+__author__ = "UW AMATH SysAdmin"
+__email__ = "amathsys@uw.edu"
 
 __license__ = "GNU GPLv3"
 __copyright__ = f"Copyright 2020-2024 {__author__}"
