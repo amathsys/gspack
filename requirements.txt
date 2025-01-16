@@ -6,3 +6,4 @@ ipython==8.12.3
 nbformat
 matplotlib
 pathlib
+gradescope-utils>=0.3.1
