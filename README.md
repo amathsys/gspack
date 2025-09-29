@@ -22,23 +22,19 @@ on arbitrary input -- [gradescope-utils](https://github.com/gradescope/gradescop
 
 ## Installation
 
-> **_Windows:_**  This program was tested on Windows 10 with Anaconda3. See the instructions at:
-> 
-> https://www.anaconda.com/products/individual
-> 
-> Please use "Command Prompt (Anaconda3)" as your terminal.
->
-> **_MacOS:_** Use of Anaconda3 is recommended.
-
 To install `gspack` use:
 
 ```shell script
-$ pip install gspack
+$ pip3 install gspack
 ```
 
-in your terminal.
+in your terminal.  Replace the /gspack/scr/gspack/templates folder with the one found on this site.
+
+To test, run `gspack  --version`
 
 For MATLAB Support, follow the instructions which `gspack` prints at the end of its installation.
+
+
 
 ## Usage
 
