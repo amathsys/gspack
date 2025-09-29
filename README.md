@@ -28,7 +28,7 @@ To install `gspack` use:
 $ pip3 install gspack
 ```
 
-in your terminal.  Replace the /gspack/scr/gspack/templates folder with the one found on this site.
+in your terminal.  Replace the `/gspack/scr/gspack/templates` folder with the one found on this site.
 
 To test, run `gspack  --version`
 
