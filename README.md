@@ -1,6 +1,6 @@
 # gspack
 
-Programming Assignment Packager for Gradescope Autograder.
+ARCHIVED: Programming Assignment Packager for Gradescope Autograder.
 
 ## Goal
 
